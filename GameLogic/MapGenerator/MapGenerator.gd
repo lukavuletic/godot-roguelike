@@ -10,6 +10,7 @@ var gridSteps = 20
 var grid = []
 
 func _ready():
+	print("map gen")
 	randomize()
 	createLevel()
 	

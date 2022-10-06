@@ -4,6 +4,8 @@
 
 ### Added
 - basic map generator
+- dirt and grass tile
+- player movement
 
 ### Changed
 
