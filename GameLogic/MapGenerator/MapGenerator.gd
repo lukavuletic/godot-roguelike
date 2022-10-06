@@ -5,7 +5,7 @@ var tile = preload("res://GameLogic/MapGenerator/Tile.tscn")
 const dir = [Vector2.RIGHT, Vector2.LEFT, Vector2.UP, Vector2.DOWN]
 
 var gridSize = 7
-var gridSpread = 65
+var gridSpread = 300
 var gridSteps = 20
 var grid = []
 
